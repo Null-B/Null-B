@@ -4,7 +4,7 @@
 </br>
 </br>
 
-<h2> Apps for working</h2>
+<h2> Apps for working <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <a><img width ='32px' src ='https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor'></a><a><img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png'></a><a><img width ='32px' src ='https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png'></a><a><img width ='32px' src ='https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png'></a>
 
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></a><a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
@@ -12,7 +12,7 @@
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'></a><a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a><a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xamarin.svg'></a>
 </br>
 
-<h2>Frameworks</h2>
+<h2>Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'></a><a><img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png'></a><a><img width ='32px' src ='https://newcastlebeach.org/images/wpf-icon-6.png'></a>
 
 <a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'></a><a><img width ='32px' src ='https://icongr.am/devicon/heroku-original.svg?size=128&color=currentColor'></a>
