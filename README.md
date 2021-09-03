@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Metrics](https://metrics.lecoq.io/Null-B?template=classic&base.metadata=0&isocalendar=1&languages=1&people=1&followup=1&notable=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&notable.repositories=false&config.timezone=Europe%2FSkopje)
 
 <!-- <h2> Programing Panguages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -51,4 +52,7 @@
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'>
 </a> -->
 
- 
+
+=======
+![Metrics](https://metrics.lecoq.io/Null-B?template=classic&base.metadata=0&languages=1&isocalendar=1&people=1&lines=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FSkopje)
+>>>>>>> 3c4d858d5fbc0c4b58888a1f155a2fe129c19f4f
